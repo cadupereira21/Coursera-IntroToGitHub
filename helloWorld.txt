@@ -2,3 +2,4 @@ Hello World!
 How are you doing?
 This was added in the remote repository and This was added in the local repository
 This was added to branch refactor
+This is message 2 to branch refactor
